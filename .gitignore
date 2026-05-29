@@ -2,3 +2,8 @@ data_barks/
 splits/
 embeddings/
 models/
+fairseq/
+dog2vec/
+venvs/
+venv310/
+dog2vec/__pycache__/
