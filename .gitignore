@@ -7,3 +7,4 @@ dog2vec/
 venvs/
 venv310/
 dog2vec/__pycache__/
+dog2vec/dog2vec_130k_9.pt
